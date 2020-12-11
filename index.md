@@ -1,6 +1,5 @@
 # Alyssa Haag
-Medical Student 1 (MS1)
-Dr. Kiran C. Patel College of Allopathic Medicine 
+MS1, Dr. Kiran C. Patel College of Allopathic Medicine 
 
 Osmosis Content:
 
