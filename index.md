@@ -9,6 +9,8 @@ Osmosis Content:
 
 [Median Nerve Q&A -Osmosis](https://www.osmosis.org/answers/median-nerve)
 
+[Bulbar Palsy Q&A -Osmosis](https://www.osmosis.org/answers/bulbar-palsy)
+
 Published Research:
 
 ![Me](/Pic2.png)
