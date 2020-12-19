@@ -11,6 +11,8 @@ Osmosis Content:
 
 [Bulbar Palsy Q&A -Osmosis](https://www.osmosis.org/answers/bulbar-palsy)
 
+[Coccobacilli -Osmosis](https://www.osmosis.org/answers/coccobacilli)
+
 Published Research:
 
 ![Me](/Pic2.png)
