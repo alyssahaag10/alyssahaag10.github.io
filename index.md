@@ -5,15 +5,17 @@ MS1, Dr. Kiran C. Patel College of Allopathic Medicine
 
 Osmosis Content:
 
-[Lividity Q&A -Osmosis](https://www.osmosis.org/answers/lividity)
+[Lividity Q&A](https://www.osmosis.org/answers/lividity)
 
-[Median Nerve Q&A -Osmosis](https://www.osmosis.org/answers/median-nerve)
+[Median Nerve Q&A](https://www.osmosis.org/answers/median-nerve)
 
-[Bulbar Palsy Q&A -Osmosis](https://www.osmosis.org/answers/bulbar-palsy)
+[Bulbar Palsy Q&A](https://www.osmosis.org/answers/bulbar-palsy)
 
-[Coccobacilli -Osmosis](https://www.osmosis.org/answers/coccobacilli)
+[Coccobacilli Q&A](https://www.osmosis.org/answers/coccobacilli)
 
 Published Research:
+
+...in progress
 
 ![Me](/Pic2.png)
 
