@@ -17,6 +17,8 @@ Published Research:
 
 ...in progress
 
+Me:
+
 ![Me](/Pic2.png)
 
 
