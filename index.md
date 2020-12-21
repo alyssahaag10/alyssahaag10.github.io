@@ -13,6 +13,11 @@ Osmosis Content:
 
 [Coccobacilli Q&A](https://www.osmosis.org/answers/coccobacilli)
 
+[Midaxillar Line Q&A](https://www.osmosis.org/answers/midaxillary-line)
+
+[Patellar Disclocation Q&A](https://www.osmosis.org/answers/patellar-fracture)
+
+
 Published Research:
 
 ...in progress
