@@ -17,6 +17,8 @@ Osmosis Content:
 
 [Patellar Disclocation Q&A](https://www.osmosis.org/answers/patellar-fracture)
 
+[Granulocytosis Q&A](https://www.osmosis.org/answers/granulocytosis)
+
 
 Published Research:
 
