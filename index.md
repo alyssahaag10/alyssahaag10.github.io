@@ -21,7 +21,7 @@ Osmosis Content:
 
 [Mydriasis Q&A](https://www.osmosis.org/answers/mydriasis)
 
-[Hesselbach Triangle](https://www.osmosis.org/answers/hesselbach Triangle)
+[Hesselbach Triangle](https://www.osmosis.org/answers/hesselbach-triangle)
 
 
 Published Research:
