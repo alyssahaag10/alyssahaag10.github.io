@@ -23,13 +23,15 @@ Osmosis Content:
 
 [Hesselbach Triangle Q&A](https://www.osmosis.org/answers/hesselbach-triangle)
 
+[Le Fort Fracture Q&A](https://www.osmosis.org/answers/le-fort-fracture)
+
 
 Published Research:
 
 ...in progress
 
 
-Me:
+
 
 ![Me](/Pic2.png)
 
